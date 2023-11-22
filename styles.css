@@ -1,1 +1,14 @@
 /* your code */
+th, td, tr{
+	padding-right: 50px;
+	
+}
+th{
+	background-color: #215a8e;
+	color:white;
+	
+	
+}
+tr:nth-child(2n+1){
+	background-color: #dddddd;
+}
